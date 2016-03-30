@@ -1,7 +1,7 @@
 'use strict';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Layout from './components/layout';
+import Layout from './components/pages/layout';
 const app = document.getElementById('content');
 ReactDOM.render(
     <Layout />,
